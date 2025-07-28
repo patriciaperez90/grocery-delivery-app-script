@@ -90,7 +90,7 @@
     "moment": "^2.29.1",
     "patch-package": "^8.0.0",
     "react": "19.0.0",
-    "react-i18next": "^14.0.1",
+    "react-i18next": "^15.6.1",
     "react-native": "0.79.5",
     "react-native-button": "^3.0.1",
     "react-native-chat-ui": "^0.1.9",

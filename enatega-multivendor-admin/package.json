@@ -27,7 +27,7 @@
     "browser-image-compression": "^2.0.2",
     "chart.js": "^4.4.4",
     "date-fns": "^4.1.0",
-    "firebase": "^11.3.0",
+    "firebase": "^12.0.0",
     "formik": "^2.4.6",
     "graphql": "^16.9.0",
     "graphql-ws": "^5.16.0",

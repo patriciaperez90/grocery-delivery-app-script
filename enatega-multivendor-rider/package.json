@@ -69,7 +69,7 @@
     "react-dom": "19.0.0",
     "react-i18next": "^15.4.0",
     "react-native": "0.79.4",
-    "react-native-calendars": "^1.1309.1",
+    "react-native-calendars": "^1.1313.0",
     "react-native-countdown-component": "^2.7.1",
     "react-native-flash-message": "^0.4.2",
     "react-native-gesture-handler": "~2.24.0",

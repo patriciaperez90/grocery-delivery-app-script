@@ -57,7 +57,7 @@
     "expo-web-browser": "~14.2.0",
     "formik": "^2.4.6",
     "graphql": "^16.10.0",
-    "i18next": "^24.2.2",
+    "i18next": "^25.5.2",
     "jest-expo": "52.0.4",
     "lightningcss": "^1.29.1",
     "lint-staged": "^15.3.0",

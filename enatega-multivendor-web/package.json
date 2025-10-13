@@ -58,7 +58,7 @@
     "tailwind-merge": "^2.5.2",
     "tailwind-scrollbar": "^2.0.0",
     "uuid": "^11.1.0",
-    "yup": "^1.6.1"
+    "yup": "^1.7.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",

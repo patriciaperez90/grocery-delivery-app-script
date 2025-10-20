@@ -124,7 +124,7 @@
     "uuid": "^11.0.2"
   },
   "devDependencies": {
-    "@expo/metro-config": "~0.20.0",
+    "@expo/metro-config": "~54.0.6",
     "babel-preset-expo": "~13.0.0",
     "babel-preset-react-native": "^4.0.1",
     "eslint": "^8.56.0",

@@ -101,7 +101,7 @@
     "@types/lodash": "^4.17.14",
     "@types/react-native-countdown-component": "^2.7.4",
     "@typescript-eslint/eslint-plugin": "^8.20.0",
-    "@typescript-eslint/parser": "^8.20.0",
+    "@typescript-eslint/parser": "^8.46.2",
     "eas-cli": "^15.0.10",
     "eslint": "^8.57.1",
     "eslint-config-expo": "~9.2.0",

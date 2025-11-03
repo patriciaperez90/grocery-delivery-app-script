@@ -56,7 +56,7 @@
     "expo-video": "^2.2.2",
     "expo-web-browser": "~14.2.0",
     "formik": "^2.4.6",
-    "graphql": "^16.10.0",
+    "graphql": "^16.12.0",
     "i18next": "^24.2.2",
     "jest-expo": "52.0.4",
     "lightningcss": "^1.29.1",

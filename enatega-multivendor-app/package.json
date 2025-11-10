@@ -78,7 +78,7 @@
     "expo-system-ui": "~5.0.10",
     "expo-tracking-transparency": "~5.2.4",
     "expo-updates": "~0.28.17",
-    "expo-video": "^2.2.2",
+    "expo-video": "^3.0.14",
     "expo-web-browser": "~14.2.0",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.10.1",

@@ -72,6 +72,6 @@
     "ts-node": "^10.9.2",
     "tslib": "^2.6.3",
     "typescript": "^5.6.2",
-    "webpack-bundle-analyzer": "^4.10.2"
+    "webpack-bundle-analyzer": "^5.1.0"
   }
 }

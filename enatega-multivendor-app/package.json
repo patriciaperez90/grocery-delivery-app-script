@@ -64,7 +64,7 @@
     "expo-application": "~6.1.4",
     "expo-auth-session": "~6.2.1",
     "expo-crypto": "~14.1.5",
-    "expo-dev-client": "~5.2.4",
+    "expo-dev-client": "~56.0.20",
     "expo-device": "~7.1.4",
     "expo-font": "~13.3.1",
     "expo-keep-awake": "~14.1.4",

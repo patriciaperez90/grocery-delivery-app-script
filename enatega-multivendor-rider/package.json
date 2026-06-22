@@ -33,7 +33,7 @@
     "expo": "^53.0.12",
     "expo-audio": "^0.4.6",
     "expo-av": "~15.1.6",
-    "expo-blur": "~14.1.5",
+    "expo-blur": "~56.0.3",
     "expo-constants": "~17.1.6",
     "expo-dev-client": "~5.2.1",
     "expo-device": "~7.1.4",

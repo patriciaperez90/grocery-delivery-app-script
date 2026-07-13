@@ -88,7 +88,7 @@
     "jwt-decode": "^4.0.0",
     "lottie-react-native": "7.2.2",
     "moment": "^2.29.1",
-    "patch-package": "^8.0.0",
+    "patch-package": "^8.0.1",
     "react": "19.0.0",
     "react-i18next": "^14.0.1",
     "react-native": "0.79.5",
